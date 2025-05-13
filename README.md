@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project started with the tutorial video by PedroTech called Build and Deploy a personal portfolio with React JS and TailwindCSS.
 
 video link:
@@ -39,3 +40,6 @@ here is the html with the font families:
   </body>
 </html>
 ```
+=======
+# portfolio_project
+>>>>>>> 41c6cd5100cc3749fb80322405f06158bf242623
