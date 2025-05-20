@@ -58,21 +58,21 @@ export const About = () => {
                 <strong>900 Hour Coding & Web Development Program</strong> - West-MEC Central Technical School (2023-2025)
               </li>
               <li>
-                Relevant coursework: Data Structures, Web Development, Cloud Computing...
+                Graduated at Dysart High School 2025
               </li>
             </ul>
           </div>
 
           <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition:all">
-            <h3 className="text-xl font-bold mb-4"> 💼 Work Experience</h3>
+            <h3 className="text-xl font-bold mb-4"> 💼 Certifications</h3>
             <div className="space-y-4 text-gray-300">
               <div>
-                <h4 className="font-semibold">Software Engineer at Some Org (2025 - Present)</h4>
-                <p>Developed and maintained database APIs.</p>
+                <h4 className="font-semibold">HTML And CSS</h4>
+                <p>Took the test and got certtified on June 21 2024</p>
               </div>
               <div>
-                <h4 className="font-semibold">Software Engineer at Some Org (2025 - Present)</h4>
-                <p>Developed and maintained database APIs.</p>
+                <h4 className="font-semibold">JavaScript</h4>
+                <p>Took the test and got cerified on May 5 2025</p>
               </div>
             </div>
           </div>
